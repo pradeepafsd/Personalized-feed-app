@@ -76,8 +76,8 @@ This makes the feed user-centric, lightweight, and easily extendable.
 
 #How to Run Locally
 
-git clone https://github.com/pradeepafsd/personalized-feed-app.git
-cd personalized-feed-app
+git clone https://github.com/pradeepafsd/Personalized-feed-app.git
+cd Personalized-feed-app
 npm install
 npx expo start
 
